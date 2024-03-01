@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\",
+  "WorkspaceRootPath": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\source\\repos\\solbeg_task\\solbeg_task\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\documents\\clonedsolbegtask\\web-api-and-react-frontend\\backend\\solbeg_task\\solbeg_task\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|solutionrelative:solbeg_task\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\source\\repos\\solbeg_task\\solbeg_task\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\documents\\clonedsolbegtask\\web-api-and-react-frontend\\backend\\solbeg_task\\solbeg_task\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|solutionrelative:solbeg_task\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\source\\repos\\solbeg_task\\solbeg_task\\migrations\\contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\documents\\clonedsolbegtask\\web-api-and-react-frontend\\backend\\solbeg_task\\solbeg_task\\migrations\\contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|solutionrelative:solbeg_task\\migrations\\contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\source\\repos\\solbeg_task\\solbeg_task\\migrations\\20240227032948_databaseconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\documents\\clonedsolbegtask\\web-api-and-react-frontend\\backend\\solbeg_task\\solbeg_task\\migrations\\20240227032948_databaseconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|solutionrelative:solbeg_task\\migrations\\20240227032948_databaseconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\source\\repos\\solbeg_task\\solbeg_task\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\documents\\clonedsolbegtask\\web-api-and-react-frontend\\backend\\solbeg_task\\solbeg_task\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|solutionrelative:solbeg_task\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\source\\repos\\solbeg_task\\solbeg_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\documents\\clonedsolbegtask\\web-api-and-react-frontend\\backend\\solbeg_task\\solbeg_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|solutionrelative:solbeg_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\source\\repos\\solbeg_task\\solbeg_task\\solbeg_task.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\documents\\clonedsolbegtask\\web-api-and-react-frontend\\backend\\solbeg_task\\solbeg_task\\solbeg_task.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|solutionrelative:solbeg_task\\solbeg_task.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\source\\repos\\solbeg_task\\solbeg_task\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\documents\\clonedsolbegtask\\web-api-and-react-frontend\\backend\\solbeg_task\\solbeg_task\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|solutionrelative:solbeg_task\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\source\\repos\\solbeg_task\\solbeg_task\\solbeg_task.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\documents\\clonedsolbegtask\\web-api-and-react-frontend\\backend\\solbeg_task\\solbeg_task\\solbeg_task.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|solutionrelative:solbeg_task\\solbeg_task.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\source\\repos\\solbeg_task\\solbeg_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\documents\\clonedsolbegtask\\web-api-and-react-frontend\\backend\\solbeg_task\\solbeg_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|solutionrelative:solbeg_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\source\\repos\\solbeg_task\\solbeg_task\\solbeg_task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|c:\\users\\federico de armas\\documents\\clonedsolbegtask\\web-api-and-react-frontend\\backend\\solbeg_task\\solbeg_task\\solbeg_task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{26420E60-023F-42CE-B780-0B73E5780CF4}|Solbeg_Task\\Solbeg_Task.csproj|solutionrelative:solbeg_task\\solbeg_task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -54,58 +54,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Models\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Solbeg_Task\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Models\\Employee.cs",
               "RelativeToolTip": "Solbeg_Task\\Models\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T02:43:11.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T02:43:11.5Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Program.cs",
               "RelativeDocumentMoniker": "Solbeg_Task\\Program.cs",
-              "ToolTip": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Program.cs",
               "RelativeToolTip": "Solbeg_Task\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T02:24:33.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T02:24:33.633Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Solbeg_Task.http",
-              "DocumentMoniker": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.http",
+              "DocumentMoniker": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.http",
               "RelativeDocumentMoniker": "Solbeg_Task\\Solbeg_Task.http",
-              "ToolTip": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.http",
+              "ToolTip": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.http",
               "RelativeToolTip": "Solbeg_Task\\Solbeg_Task.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-02-27T02:24:49.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T02:24:49.452Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Solbeg_Task",
-              "DocumentMoniker": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.csproj",
+              "DocumentMoniker": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.csproj",
               "RelativeDocumentMoniker": "Solbeg_Task\\Solbeg_Task.csproj",
-              "ToolTip": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.csproj",
+              "ToolTip": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.csproj",
               "RelativeToolTip": "Solbeg_Task\\Solbeg_Task.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-02-29T21:35:09.293Z"
@@ -114,9 +107,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Solbeg_Task\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Solbeg_Task\\Controllers\\EmployeeController.cs",
               "ViewState": "AQIAAEcAAAAAAAAAAAAIwFUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,48 +120,45 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "20240227032948_DatabaseConstructor.cs",
-              "DocumentMoniker": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Migrations\\20240227032948_DatabaseConstructor.cs",
+              "DocumentMoniker": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Migrations\\20240227032948_DatabaseConstructor.cs",
               "RelativeDocumentMoniker": "Solbeg_Task\\Migrations\\20240227032948_DatabaseConstructor.cs",
-              "ToolTip": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Migrations\\20240227032948_DatabaseConstructor.cs",
+              "ToolTip": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Migrations\\20240227032948_DatabaseConstructor.cs",
               "RelativeToolTip": "Solbeg_Task\\Migrations\\20240227032948_DatabaseConstructor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T03:29:48.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T03:29:48.756Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Migrations\\ContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Migrations\\ContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Solbeg_Task\\Migrations\\ContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Migrations\\ContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Migrations\\ContextModelSnapshot.cs",
               "RelativeToolTip": "Solbeg_Task\\Migrations\\ContextModelSnapshot.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T03:33:14.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T03:33:14.036Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Solbeg_Task\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Properties\\launchSettings.json",
               "RelativeToolTip": "Solbeg_Task\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-27T03:27:37.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T03:27:37.927Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\appsettings.json",
               "RelativeDocumentMoniker": "Solbeg_Task\\appsettings.json",
-              "ToolTip": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\appsettings.json",
+              "ToolTip": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\appsettings.json",
               "RelativeToolTip": "Solbeg_Task\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -178,26 +168,29 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Data\\Context.cs",
+              "DocumentMoniker": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Data\\Context.cs",
               "RelativeDocumentMoniker": "Solbeg_Task\\Data\\Context.cs",
-              "ToolTip": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Data\\Context.cs",
+              "ToolTip": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Data\\Context.cs",
               "RelativeToolTip": "Solbeg_Task\\Data\\Context.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T03:05:14.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T03:05:14.26Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Solbeg_Task.csproj",
-              "DocumentMoniker": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.csproj",
+              "DocumentMoniker": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.csproj",
               "RelativeDocumentMoniker": "Solbeg_Task\\Solbeg_Task.csproj",
-              "ToolTip": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.csproj",
+              "ToolTip": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.csproj",
               "RelativeToolTip": "Solbeg_Task\\Solbeg_Task.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-02-29T21:35:35.695Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

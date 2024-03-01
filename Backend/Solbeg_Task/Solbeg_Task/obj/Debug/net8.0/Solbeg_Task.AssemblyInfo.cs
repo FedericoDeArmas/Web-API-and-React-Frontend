@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Solbeg_Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2e31207f2eff586e893893e4a90fd2f087a646b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Solbeg_Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Solbeg_Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

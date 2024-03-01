@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AhRULILc1UO7fHAF3ElCCpqH3DCVml8/VDGSoHbsMiYDZHCk/Kz6xVLkvju8MB4zISuEZSsAuZMTHzuw1bug5w==",
+  "dgSpecHash": "tspnHVgOV1xNP7S5aWNBAE4Qt66dn/O4DjLBCa8quAF/Brfpkg1GBThcGnF8WFsVQeDiHSCpmtyidNC0ABKqvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.csproj",
+  "projectFilePath": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Federico De Armas\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Federico De Armas\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

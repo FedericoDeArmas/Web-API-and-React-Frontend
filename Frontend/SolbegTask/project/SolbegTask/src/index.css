@@ -1,0 +1,75 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*{
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  color: #f0f0f0;
+  background-color: #171717;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+#listContainer {
+  width: 1200px;
+}
+.even {
+  background-color: #b93535;
+  color:#fff;
+}
+
+.odd {
+  background-color: #1e1e1e;
+  color: #bbb;
+}
+
+.fixedTableContainer { 
+  overflow: auto; height: 350px; 
+}
+.fixedTableContainer thead th {
+   position: sticky;
+   margin-top: 0;
+   top: 0;
+   z-index: 1;
+}
+
+table { 
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+   padding: 8px 16px;
+   border-top: none !important;
+}
+tbody{
+  color: #111111;
+}
+
+th {
+   background:#171717;
+}
+
+#listContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.form-check-input {
+  accent-color: white;
+}

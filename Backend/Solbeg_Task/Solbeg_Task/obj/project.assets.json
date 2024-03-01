@@ -4774,11 +4774,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.csproj",
+      "projectUniqueName": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.csproj",
       "projectName": "Solbeg_Task",
-      "projectPath": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.csproj",
+      "projectPath": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\Solbeg_Task.csproj",
       "packagesPath": "C:\\Users\\Federico De Armas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Federico De Armas\\source\\repos\\Solbeg_Task\\Solbeg_Task\\obj\\",
+      "outputPath": "C:\\Users\\Federico De Armas\\Documents\\ClonedSolbegTask\\Web-API-and-React-Frontend\\Backend\\Solbeg_Task\\Solbeg_Task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Federico De Armas\\AppData\\Roaming\\NuGet\\NuGet.Config",

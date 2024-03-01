@@ -40,8 +40,6 @@ namespace Solbeg_Task.Controllers
             }
             catch (DbUpdateConcurrencyException)
             {
-                // Maneja la excepción de concurrencia si es necesario
-                // Por ejemplo, si alguien más ha modificado el empleado desde que se obtuvo.
                 return StatusCode(StatusCodes.Status500InternalServerError, "Error updating employee. Please try again later.");
             }
         }
@@ -57,7 +55,6 @@ namespace Solbeg_Task.Controllers
             if (!IsValidEmployee(em))
                 return BadRequest("Employee data is not valid. Please check the provided data.");
 
-            // Actualiza los datos del antiguo empleado con los datos proporcionados
             formerEmployee.FirstName = em.FirstName;
             formerEmployee.LastName = em.LastName;
             formerEmployee.Age = em.Age;
@@ -70,8 +67,6 @@ namespace Solbeg_Task.Controllers
             }
             catch (DbUpdateConcurrencyException)
             {
-                // Maneja la excepción de concurrencia si es necesario
-                // Por ejemplo, si alguien más ha modificado el empleado desde que se obtuvo.
                 return StatusCode(StatusCodes.Status500InternalServerError, "Error updating employee. Please try again later.");
             }
         }
