@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Solbeg_Task.props" />
+</Project>

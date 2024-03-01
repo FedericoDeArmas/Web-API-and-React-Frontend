@@ -1,0 +1,18 @@
+@Solbeg_Task_HostAddress = http://localhost:5137
+
+GET {{Solbeg_Task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Solbeg_Task_HostAddress}}/weatherforecast
+
+###
+
+GET {{Solbeg_Task_HostAddress}}/api/employee
+
+###
+
+GET {{Solbeg_Task_HostAddress}}/api/employee
+
+###
