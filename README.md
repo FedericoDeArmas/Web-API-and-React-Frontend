@@ -16,9 +16,9 @@ This project implements a web application with a Web API backend developed using
 To run the application locally, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Navigate to the `backend` directory and run `dotnet run` to start the Web API backend.
-3. Navigate to the `frontend` directory and run `npm install` followed by `npm start` to start the React frontend.
-4. Access the application in your web browser at `http://localhost:3000`.
+2. Navigate to the `backend` directory and open the solution using Visual Studio 2022 to start the Web API backend.
+3. Navigate to the `frontend` directory and run `npm install` followed by `npm run dev` to start the React frontend.
+4. Access the application in your web browser and enjoy!
 
 ## Technologies Used
 
