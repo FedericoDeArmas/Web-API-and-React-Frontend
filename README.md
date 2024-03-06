@@ -16,7 +16,7 @@ This project implements a web application with a Web API backend developed using
 To run the application locally, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Navigate to the `backend` directory and open the solution using Visual Studio 2022 to start the Web API backend.
+2. Navigate to the `backend` directory and open the solution using Visual Studio 2022. Run `Update-Database` in the Package Manager Console to build the database, and then start the backend application.
 3. Navigate to the `frontend` directory and run `npm install` followed by `npm run dev` to start the React frontend.
 4. Access the application in your web browser and enjoy!
 
